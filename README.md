@@ -7,7 +7,7 @@
 •	Definir que son los transformadores, como se aplicando en un circuito, que ayuda representan, para que sirven y cual es su funcion dentro del circuito y que formas se pueden aplicar para la resolución de los ejercicios.<br /><br />
 2. Marco teórico (Resumen)<br /><br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-7/blob/main/Teoria%20Cap%2013.PNG)<br /><br />
-![alt text]()<br /><br />
+
 3. Problemas (IMPARES)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.1.PNG)<br />
 ![alt text](https://github.com/adtumbaco1/Informe-Tarea-6/blob/main/11.2.PNG)<br />
